@@ -5,7 +5,7 @@
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formação em **ADS** pela <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do Sul</a>
-- 💼 Trabalhando como **Analista de Sistemas** na <a href="https://sinqia.com.br/">Sinqia</a>
+- 💼 Trabalhando como **Engenheiro de Software Senior** na <a href="https://leega.com.br/">Leega</a>
 
 ## 🚀 Minhas Skills
 
