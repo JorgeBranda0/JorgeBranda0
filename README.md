@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,java,nodejs,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,cs,dotnet,nodejs,postgres,mongodb" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,docker" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,azure,git,docker,aws,postman" />
   </a>
 </p>
 
